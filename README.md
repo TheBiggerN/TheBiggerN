@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheBiggerN
+- 👀 I’m interested in Stuff
+- 🌱 I’m currently learning programming in general (C++ first)
+- 📫 How to reach me: email
